@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Amy Z. Chen"
-title_separator          : "-"
+title_separator          : "|"
 name                     : &name "Amy Z. Chen"
 description              : &description "PhD student at Georgia Tech"
 url                      : https://amyzlc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
