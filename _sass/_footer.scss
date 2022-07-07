@@ -15,12 +15,12 @@
   height: auto;
   /* sticky footer fix end */
   margin-top: 3em;
-  color: $border-color;  /* mix(#fff, $gray, 25%); */
+  color: mix(#000, $border-color, 25%);  /* mix(#fff, $gray, 25%); */
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.45s;
           animation-delay: 0.45s;
-  background-color: mix(#fff, $border-color, 40%); /* $lighter-gray; */
+  background-color: mix(#fff, $border-color, 50%); /* $lighter-gray; */
   border-top: 1px solid $border-color; /* $light-gray; */
 
   footer {
