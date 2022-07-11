@@ -1,6 +1,6 @@
 ---
 title: "Community-based COVID-19 social media monitoring and response"
-excerpt: "Designing and developing social media-based and other digital tools to support partners in Black and Latinx communities in Georgia in addressing COVID-19 vaccine hesitancy and misinformation<br/><img src='/images/covid-social-media-dashboard.png'>"
+excerpt: "Designing and developing social media-based and other digital tools to support partners in Black and Latinx communities in Georgia in addressing COVID-19 vaccine hesitancy and misinformation<br/><img src='/images/covid-social-media-dashboard.png' width='500'>"
 collection: research
 ---
 
