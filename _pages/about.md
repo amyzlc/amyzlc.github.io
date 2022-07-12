@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Amy. I'm a PhD student in Human-Centered Computing at Georgia Tech, where I am advised by [Dr. Michael Best](https://mikeb.inta.gatech.edu/). I am interested in how digital platforms impact public health and social services, with the goal of informing more equitable and effective community-based public health work.
+My name is Amy. I'm a PhD student in [Human-Centered Computing](https://www.cc.gatech.edu/degree-programs/phd-human-centered-computing) at Georgia Tech, where I am advised by [Dr. Michael Best](https://mikeb.inta.gatech.edu/). I am interested in how digital platforms impact public health and social services, with the goal of informing more equitable and effective community-based public health work.
 
 In my current research, I am exploring social media-based and other digital tools to support community-based trusted messengers in countering misinformation and promoting community health. I have been collaborating with researchers and community partners in the state of Georgia, where we are working as a [coalition](https://www.msm.edu/news-center/coronavirusadvisory/GeorgiaCeal/georgiaceal.php) to address COVID-19 vaccine hesitancy among Black and Latinx/Hispanic communities in the state.
 
