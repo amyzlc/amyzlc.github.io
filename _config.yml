@@ -147,6 +147,7 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - archived_pages # to not output these pages
 keep_files:
   - .git
   - .svn
