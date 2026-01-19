@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "amyzlc"
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -88,10 +88,10 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=nNidbKIAAAAJ&view_op=list_works&sortby=pubdate"
-  email            : "amyzlchen@gmail.com"
+  email            : "amychen@gatech.edu"
   researchgate     :  
   uri              :
-  bluesky          : "https://bsky.app/profile/amyzlc.bsky.social"
+  bluesky          :
   bitbucket        :
   codepen          :
   dribbble         :
@@ -105,14 +105,14 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         : "amyzlc"
-  mastodon         : "https://hci.social/@amyzlc"
+  mastodon         :
   orcid            : "https://orcid.org/0000-0001-7050-2901"
   pinterest        :
   soundcloud       :
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "amyzlc"
+  twitter          :
   vine             :
   weibo            :
   xing             :
